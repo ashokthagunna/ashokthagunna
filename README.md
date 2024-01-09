@@ -10,10 +10,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="" target="blank"><img align="center" src="https://github.com/007shashi/007shashi/blob/main/Github%20Icon/Linkedin.png" alt="https://www.linkedin.com/in/shashank-g-044091174/" height="35" width="100" /></a>
-  <a href="hmailto:" target="blank"><img align="center" src="https://github.com/007shashi/007shashi/blob/main/Github%20Icon/gmail.png" alt="" height="35" width="100" /></a>
-<a href="" target="blank"><img align="center" src="https://github.com/007shashi/007shashi/blob/main/Github%20Icon/Instagram.png" alt="" height="35" width="110" /></a>
-<a href="" target="blank"><img align="center" src="https://github.com/007shashi/007shashi/blob/main/Github%20Icon/Hackerrank.png" alt="https://www.hackerrank.com/profile/shashanknayak369" height="35" width="120" /></a>
+<a href="https://www.linkedin.com/in/ashok-thagunna-353399255/" target="blank"><img align="center" src="https://github.com/007shashi/007shashi/blob/main/Github%20Icon/Linkedin.png" alt="https://www.linkedin.com/in/shashank-g-044091174/" height="35" width="100" /></a>
+  <a href="mailto:ashokthagunna15@gmail.com" target="blank"><img align="center" src="https://github.com/007shashi/007shashi/blob/main/Github%20Icon/gmail.png" alt="" height="35" width="100" /></a>
+<a href="https://www.instagram.com/ashok.thagunna21" target="blank"><img align="center" src="https://github.com/007shashi/007shashi/blob/main/Github%20Icon/Instagram.png" alt="" height="35" width="110" /></a>
+<a href="https://www.hackerrank.com/profile/ashokthagunna15" target="blank"><img align="center" src="https://github.com/007shashi/007shashi/blob/main/Github%20Icon/Hackerrank.png" alt="https://www.hackerrank.com/profile/shashanknayak369" height="35" width="120" /></a>
 </p>
 
 <h2 align="left">Languages and Tools:</h2>
